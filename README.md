@@ -20,3 +20,5 @@ Puede leer más sobre las puntuaciones de tenis [aquí] (http://en.wikipedia.org
 4. Si al menos tres puntos han sido anotados por cada lado y un jugador tiene un punto más que su oponente, la puntuación del juego es "Ventaja" para el jugador que está a la cabeza.
 
 Solo necesitas reportar la puntuación del juego actual. Conjuntos y partidos están fuera de alcance.
+
+Fuente [https://github.com/emilybache/Tennis-Refactoring-Kata] (https://github.com/emilybache/Tennis-Refactoring-Kata) 
