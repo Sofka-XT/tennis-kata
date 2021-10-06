@@ -21,4 +21,4 @@ Puede leer más sobre las puntuaciones de tenis [aquí] (http://en.wikipedia.org
 
 Solo necesitas reportar la puntuación del juego actual. Conjuntos y partidos están fuera de alcance.
 
-Fuente [https://github.com/emilybache/Tennis-Refactoring-Kata] (https://github.com/emilybache/Tennis-Refactoring-Kata) 
+Fuente https://github.com/emilybache/Tennis-Refactoring-Kata
